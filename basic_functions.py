@@ -7,7 +7,7 @@ CP1404/CP5632 Workshop 04
 Basic functions
 demonstrating various parameters, returns and the use of a main function
 """
-__author__ = 'Riley Brown'
+__author__ = 'Brittany Peever'
 
 
 def main():
